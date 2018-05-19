@@ -3,7 +3,7 @@
     "description": "frameowrk php",
     "type": "package",
     "require": {
-        "groot/dir": "dev-master"
+        "groot/dir": "*"
     },
     "authors": [
         {
