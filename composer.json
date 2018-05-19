@@ -13,8 +13,8 @@
     ],
     "scripts": {
         "post-update-cmd": [
-            "@php -r \"file_exists('.env') || copy('example.php', '');\""
+            "dir\\DirGenerato::create"
         ]
-    }
+    },
 
 }
