@@ -1,5 +1,6 @@
 {
     "name": "gean/slim",
+    "description": "frameowrk php",
     "require": {
         "groot/dir": "dev-master"
     },
