@@ -1,6 +1,7 @@
 {
     "name": "gean/slim",
     "description": "frameowrk php",
+    "type": "package",
     "require": {
         "groot/dir": "dev-master"
     },
